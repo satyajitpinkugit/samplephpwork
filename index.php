@@ -6,6 +6,7 @@
 
 <?php
 echo "Version: 1.1";
+echo "Code changed"
 ?>
 
 </body>
